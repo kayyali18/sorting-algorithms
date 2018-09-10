@@ -1,0 +1,23 @@
+{
+  "name": "@kayyali18/sorting-algorithms",
+  "version": "1.0.0",
+  "description": "A package that provides methods for sorting ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayyali18/sorting-algorithms.git"
+  },
+  "keywords": [
+    "sorting",
+    "algorithms"
+  ],
+  "author": "kayyali18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayyali18/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/kayyali18/sorting-algorithms#readme"
+}
