@@ -1,6 +1,6 @@
 {
   "name": "@kayyali18/sorting-algorithms",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A package that provides methods for sorting ",
   "main": "index.js",
   "scripts": {
